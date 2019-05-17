@@ -6,8 +6,8 @@ The problem is to Escape From this Prison, the agent should push each rock onto 
 tele-portal which is replaced in a cell in the grid. The agent then goes to the Activated Tele-portal and escape.
 The agent can’t push the obstacles or pass through it and can’t push the tele portal.
 
-# How to Run
-## A list of complete and precise instructions on how to run the program and interpret the output:-
+## How to Run
+   
  
 1. Open "run" Class in the test package
 
@@ -15,3 +15,4 @@ The agent can’t push the obstacles or pass through it and can’t push the tel
 
 3. In the switch in the search method of run class you can print out what you want from the output like the BFS (the first match in the switch)
 
+  
